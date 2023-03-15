@@ -657,6 +657,7 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 - ODM / ORM
+	- [Neuledge](https://github.com/neuledge/engine-js) - Universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL, and more.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
